@@ -1,0 +1,106 @@
+body {
+	background-color:lightcyan;
+
+}
+
+h1 {
+	font-size:2.5em;
+	background-color:goldenrod; 
+	text-align:center;
+	color:dodgerblue;
+	position:relative;
+	padding:1.3em;
+	
+}
+
+h2#vd{
+	font-family:Georgia;
+}
+
+h2#cg{
+	font-family:verdana;
+	margin-top:50px;
+}
+
+p {
+	text-align:center;
+	position:static;
+	font-size:1.5em;
+
+}
+
+a {
+	color:orange;
+	text-decoration:none;
+}
+
+table, th, td {
+	border:2px solid black;
+	text-align:center;
+}
+
+.BoxInfo {
+	margin:20px;
+	padding:15px;
+	background-color:white;
+	position:relative;
+}
+
+td {
+	background-color:white;
+}
+
+nav{
+	background-color:red;
+	width:8em;
+	height:6.5em;
+	margin-bottom:2em;
+	position:relative;
+}
+
+nav a{
+	color:white;
+	padding:8px;
+	margin:5px;
+	font-size:1em;
+	text-decoration:none;
+}
+
+ol {
+	text-align:center;
+	background-color:orange;
+	width:90%;
+	margin-left:5%;
+	position:static;
+
+}
+
+ol li{
+	font-family:cursive;
+	font-size:1.8em;
+	color:red;
+	margin:10px;
+	
+}
+
+ul {
+	font-size:1.6em;
+	background-color:lightblue;
+	width:80%;
+	margin-left:100px;
+	list-style-type:none;
+	position:static;
+}
+
+ul li{
+	font-family:cursive;
+	text-align:center;
+	padding:10px;
+	margin:10px;
+	color:red;
+}
+
+.sup {
+	text-align:center;
+	position:static;
+}
